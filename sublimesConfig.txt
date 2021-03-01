@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-woodland.tmTheme",
+	"draw_indent_guides": false,
+	"draw_white_space": "all",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"margin": 0,
+	"remember_open_files": true,
+	"tab_size": 2,
+	"theme": "Adaptive.sublime-theme",
+	"trim_trailing_white_space_on_save": false
+}
